@@ -1,0 +1,816 @@
+{
+  "vaultName": "obsidian-vault",
+  "lastExport": 1719907113172,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "docs-hard/数学/草稿/集合论.md",
+    "docs-hard/数学/math/alge-ana/Algebraic Number Theory.md",
+    "docs-hard/数学/math/alge-ana/Discrete Mathematics.md",
+    "docs-hard/数学/math/alge-ana/Game Theory.md",
+    "docs-hard/数学/math/alge-ana/Number Theory.md",
+    "docs-hard/数学/math/alge-ana-geo/ana/Advanced Probability Theory.md",
+    "docs-hard/数学/math/alge-ana-geo/ana/calculus.md",
+    "docs-hard/数学/math/alge-ana-geo/ana/precalculus.md",
+    "docs-hard/数学/math/alge-ana-geo/ana/Probability Theory.md",
+    "docs-hard/数学/math/alge-ana-geo/ana-alge/Advanced Mathematical Analysis.md",
+    "docs-hard/数学/math/alge-ana-geo/ana-alge/Advanced Mathematical Statistics.md",
+    "docs-hard/数学/math/alge-ana-geo/ana-alge/Mathematical Analysis.md",
+    "docs-hard/数学/math/alge-ana-geo/ana-alge/Mathematical Statistics.md",
+    "docs-hard/数学/math/alge-ana-geo/ana-alge/Numercial Analysis.md",
+    "docs-hard/数学/math/alge-ana-geo/Algebraic Topology.md",
+    "docs-hard/数学/math/alge-ana-geo/Algebraic Topology Motivation.md",
+    "docs-hard/数学/math/alge-ana-geo/General Topology.md",
+    "docs-hard/数学/math/alge-geo/Advanced Linear Algebra.md",
+    "docs-hard/数学/math/alge-geo/Algebraic Geometry.md",
+    "docs-hard/数学/math/alge-geo/Algebraic Geometry Motivation.md",
+    "docs-hard/数学/math/alge-geo/Category Theory.md",
+    "docs-hard/数学/math/alge-geo/Combinatorics.md",
+    "docs-hard/数学/math/alge-geo/Lattice Theory.md",
+    "docs-hard/数学/math/alge-geo/Linear Algebra.md",
+    "docs-hard/数学/math/alge-geo/Motivation for Category Theory.md",
+    "docs-hard/数学/math/algebra/Abstract Algebra.md",
+    "docs-hard/数学/math/algebra/Advanced Abstract Algebra.md",
+    "docs-hard/数学/math/algebra/Universal Algebra.md",
+    "docs-hard/数学/math/ana-geo/Advanced Differential Geometry.md",
+    "docs-hard/数学/math/ana-geo/Complex Analysis.md",
+    "docs-hard/数学/math/ana-geo/Convex Optimization.md",
+    "docs-hard/数学/math/ana-geo/Differential Equations.md",
+    "docs-hard/数学/math/ana-geo/Differential Geometry.md",
+    "docs-hard/数学/math/ana-geo/Optimization Theory.md",
+    "docs-hard/数学/math/ana-geo/Partial Differential Equations.md",
+    "docs-hard/数学/math/analysis/Functional Analysis.md",
+    "docs-hard/数学/math/analysis/Real Analysis.md",
+    "docs-hard/数学/math/analysis/the Theory of Computation.md",
+    "docs-hard/数学/math/basis/Axiomatic Set Theory.md",
+    "docs-hard/数学/math/basis/Mathematical Logic and Model Theory.md",
+    "docs-hard/数学/math/basis/Naive Set Theory, Mathematical Reasoning, Proofs, and Discrete Mathematics.md",
+    "docs-hard/数学/math/geo/Euclidean and Non-Euclidean Geometry.md",
+    "docs-hard/数学/optional/Physics.md",
+    "docs-hard/数学/optional/Python.md",
+    "docs-hard/数学/philosophy/Logic.md",
+    "docs-hard/数学/philosophy/Philosophy.md",
+    "docs-hard/数学/philosophy/Philosophy of Probability and Statistics.md",
+    "docs-hard/数学/philosophy/Problem Solving.md",
+    "docs-hard/数学/philosophy/Statistics.md",
+    "docs-hard/数学/philosophy/the Philosophy of Language.md",
+    "docs-hard/数学/philosophy/the Philosophy of Mathematics and Logic.md",
+    "docs-hard/数学/数学-main.md",
+    "docs-hard/数学/思考.md",
+    "docs-hard/数学/main-main.md",
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "mainDependencies": [
+    "lib/scripts/graph-wasm.wasm",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media/3d6c1bdc4d87cde4de67.svg",
+    "lib/fonts/mathjax_zero.woff",
+    "lib/fonts/mathjax_main-regular.woff",
+    "lib/fonts/mathjax_main-bold.woff",
+    "lib/fonts/mathjax_math-italic.woff",
+    "lib/fonts/mathjax_main-italic.woff",
+    "lib/fonts/mathjax_math-bolditalic.woff",
+    "lib/fonts/mathjax_size1-regular.woff",
+    "lib/fonts/mathjax_size2-regular.woff",
+    "lib/fonts/mathjax_size3-regular.woff",
+    "lib/fonts/mathjax_size4-regular.woff",
+    "lib/fonts/mathjax_ams-regular.woff",
+    "lib/fonts/mathjax_calligraphic-regular.woff",
+    "lib/fonts/mathjax_calligraphic-bold.woff",
+    "lib/fonts/mathjax_fraktur-regular.woff",
+    "lib/fonts/mathjax_fraktur-bold.woff",
+    "lib/fonts/mathjax_sansserif-regular.woff",
+    "lib/fonts/mathjax_sansserif-bold.woff",
+    "lib/fonts/mathjax_sansserif-italic.woff",
+    "lib/fonts/mathjax_script-regular.woff",
+    "lib/fonts/mathjax_typewriter-regular.woff",
+    "lib/fonts/mathjax_vector-regular.woff",
+    "lib/fonts/mathjax_vector-bold.woff",
+    "lib/html/file-tree.html",
+    "lib/scripts/webpage.js",
+    "lib/scripts/graph-view.js",
+    "lib/scripts/graph-wasm.js",
+    "lib/scripts/graph-render-worker.js",
+    "lib/scripts/tinycolor.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/minisearch.js",
+    "lib/media/favicon.png",
+    "lib/scripts/graph-data.js",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/supported-plugins.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/snippets.css"
+  ],
+  "fileInfo": {
+    "lib/scripts/graph-wasm.wasm": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 23377,
+      "exportedPath": "lib/scripts/graph-wasm.wasm",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/media/3d6c1bdc4d87cde4de67.svg": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 279,
+      "exportedPath": "lib/media/3d6c1bdc4d87cde4de67.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "lib/html/file-tree.html": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 30225,
+      "exportedPath": "lib/html/file-tree.html",
+      "dependencies": []
+    },
+    "lib/scripts/webpage.js": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 47290,
+      "exportedPath": "lib/scripts/webpage.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-view.js": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 15519,
+      "exportedPath": "lib/scripts/graph-view.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-wasm.js": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 14021,
+      "exportedPath": "lib/scripts/graph-wasm.js",
+      "dependencies": []
+    },
+    "lib/scripts/graph-render-worker.js": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 5179,
+      "exportedPath": "lib/scripts/graph-render-worker.js",
+      "dependencies": []
+    },
+    "lib/scripts/tinycolor.js": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 29832,
+      "exportedPath": "lib/scripts/tinycolor.js",
+      "dependencies": []
+    },
+    "lib/scripts/pixi.js": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 449509,
+      "exportedPath": "lib/scripts/pixi.js",
+      "dependencies": []
+    },
+    "lib/scripts/minisearch.js": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 29422,
+      "exportedPath": "lib/scripts/minisearch.js",
+      "dependencies": []
+    },
+    "lib/media/favicon.png": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 1105,
+      "exportedPath": "lib/media/favicon.png",
+      "dependencies": []
+    },
+    "lib/scripts/graph-data.js": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 5821,
+      "exportedPath": "lib/scripts/graph-data.js",
+      "dependencies": []
+    },
+    "lib/styles/obsidian.css": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 130471,
+      "exportedPath": "lib/styles/obsidian.css",
+      "dependencies": []
+    },
+    "lib/styles/global-variable-styles.css": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 210,
+      "exportedPath": "lib/styles/global-variable-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/main-styles.css": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 23130,
+      "exportedPath": "lib/styles/main-styles.css",
+      "dependencies": []
+    },
+    "lib/styles/snippets.css": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 20884,
+      "exportedPath": "lib/styles/snippets.css",
+      "dependencies": []
+    },
+    "docs-hard/数学/草稿/集合论.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 3574,
+      "exportedPath": "docs-hard/数学/草稿/集合论.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-ana/Algebraic Number Theory.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 312,
+      "exportedPath": "docs-hard/数学/math/alge-ana/algebraic-number-theory.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-ana/Discrete Mathematics.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 280,
+      "exportedPath": "docs-hard/数学/math/alge-ana/discrete-mathematics.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-ana/Game Theory.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 705,
+      "exportedPath": "docs-hard/数学/math/alge-ana/game-theory.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-ana/Number Theory.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 288,
+      "exportedPath": "docs-hard/数学/math/alge-ana/number-theory.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-ana-geo/ana/Advanced Probability Theory.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 808,
+      "exportedPath": "docs-hard/数学/math/alge-ana-geo/ana/advanced-probability-theory.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-ana-geo/ana/calculus.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 2672,
+      "exportedPath": "docs-hard/数学/math/alge-ana-geo/ana/calculus.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-ana-geo/ana/precalculus.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 14190,
+      "exportedPath": "docs-hard/数学/math/alge-ana-geo/ana/precalculus.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-ana-geo/ana/Probability Theory.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 2954,
+      "exportedPath": "docs-hard/数学/math/alge-ana-geo/ana/probability-theory.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-ana-geo/ana-alge/Advanced Mathematical Analysis.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 335,
+      "exportedPath": "docs-hard/数学/math/alge-ana-geo/ana-alge/advanced-mathematical-analysis.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-ana-geo/ana-alge/Advanced Mathematical Statistics.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 847,
+      "exportedPath": "docs-hard/数学/math/alge-ana-geo/ana-alge/advanced-mathematical-statistics.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-ana-geo/ana-alge/Mathematical Analysis.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 578,
+      "exportedPath": "docs-hard/数学/math/alge-ana-geo/ana-alge/mathematical-analysis.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-ana-geo/ana-alge/Mathematical Statistics.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 6539,
+      "exportedPath": "docs-hard/数学/math/alge-ana-geo/ana-alge/mathematical-statistics.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-ana-geo/ana-alge/Numercial Analysis.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 475,
+      "exportedPath": "docs-hard/数学/math/alge-ana-geo/ana-alge/numercial-analysis.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-ana-geo/Algebraic Topology.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 310,
+      "exportedPath": "docs-hard/数学/math/alge-ana-geo/algebraic-topology.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-ana-geo/Algebraic Topology Motivation.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 494,
+      "exportedPath": "docs-hard/数学/math/alge-ana-geo/algebraic-topology-motivation.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-ana-geo/General Topology.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 588,
+      "exportedPath": "docs-hard/数学/math/alge-ana-geo/general-topology.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-geo/Advanced Linear Algebra.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 581,
+      "exportedPath": "docs-hard/数学/math/alge-geo/advanced-linear-algebra.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-geo/Algebraic Geometry.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 390,
+      "exportedPath": "docs-hard/数学/math/alge-geo/algebraic-geometry.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-geo/Algebraic Geometry Motivation.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 272,
+      "exportedPath": "docs-hard/数学/math/alge-geo/algebraic-geometry-motivation.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-geo/Category Theory.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 432,
+      "exportedPath": "docs-hard/数学/math/alge-geo/category-theory.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-geo/Combinatorics.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 541,
+      "exportedPath": "docs-hard/数学/math/alge-geo/combinatorics.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-geo/Lattice Theory.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 162,
+      "exportedPath": "docs-hard/数学/math/alge-geo/lattice-theory.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-geo/Linear Algebra.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 4355,
+      "exportedPath": "docs-hard/数学/math/alge-geo/linear-algebra.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/alge-geo/Motivation for Category Theory.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 515,
+      "exportedPath": "docs-hard/数学/math/alge-geo/motivation-for-category-theory.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/algebra/Abstract Algebra.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 456,
+      "exportedPath": "docs-hard/数学/math/algebra/abstract-algebra.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/algebra/Advanced Abstract Algebra.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 830,
+      "exportedPath": "docs-hard/数学/math/algebra/advanced-abstract-algebra.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/algebra/Universal Algebra.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 757,
+      "exportedPath": "docs-hard/数学/math/algebra/universal-algebra.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/ana-geo/Advanced Differential Geometry.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 582,
+      "exportedPath": "docs-hard/数学/math/ana-geo/advanced-differential-geometry.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/ana-geo/Complex Analysis.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 497,
+      "exportedPath": "docs-hard/数学/math/ana-geo/complex-analysis.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/ana-geo/Convex Optimization.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 451,
+      "exportedPath": "docs-hard/数学/math/ana-geo/convex-optimization.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/ana-geo/Differential Equations.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 502,
+      "exportedPath": "docs-hard/数学/math/ana-geo/differential-equations.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/ana-geo/Differential Geometry.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 500,
+      "exportedPath": "docs-hard/数学/math/ana-geo/differential-geometry.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/ana-geo/Optimization Theory.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 591,
+      "exportedPath": "docs-hard/数学/math/ana-geo/optimization-theory.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/ana-geo/Partial Differential Equations.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 490,
+      "exportedPath": "docs-hard/数学/math/ana-geo/partial-differential-equations.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/analysis/Functional Analysis.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 260,
+      "exportedPath": "docs-hard/数学/math/analysis/functional-analysis.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/analysis/Real Analysis.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 510,
+      "exportedPath": "docs-hard/数学/math/analysis/real-analysis.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/analysis/the Theory of Computation.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 359,
+      "exportedPath": "docs-hard/数学/math/analysis/the-theory-of-computation.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/basis/Axiomatic Set Theory.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 664,
+      "exportedPath": "docs-hard/数学/math/basis/axiomatic-set-theory.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/basis/Mathematical Logic and Model Theory.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 600,
+      "exportedPath": "docs-hard/数学/math/basis/mathematical-logic-and-model-theory.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/basis/Naive Set Theory, Mathematical Reasoning, Proofs, and Discrete Mathematics.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 3031,
+      "exportedPath": "docs-hard/数学/math/basis/naive-set-theory,-mathematical-reasoning,-proofs,-and-discrete-mathematics.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/math/geo/Euclidean and Non-Euclidean Geometry.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 1559,
+      "exportedPath": "docs-hard/数学/math/geo/euclidean-and-non-euclidean-geometry.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/optional/Physics.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 4884,
+      "exportedPath": "docs-hard/数学/optional/physics.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/optional/Python.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 438,
+      "exportedPath": "docs-hard/数学/optional/python.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/philosophy/Logic.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 1279,
+      "exportedPath": "docs-hard/数学/philosophy/logic.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/philosophy/Philosophy.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 2101,
+      "exportedPath": "docs-hard/数学/philosophy/philosophy.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/philosophy/Philosophy of Probability and Statistics.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 3672,
+      "exportedPath": "docs-hard/数学/philosophy/philosophy-of-probability-and-statistics.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/philosophy/Problem Solving.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 4631,
+      "exportedPath": "docs-hard/数学/philosophy/problem-solving.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/philosophy/Statistics.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 3362,
+      "exportedPath": "docs-hard/数学/philosophy/statistics.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/philosophy/the Philosophy of Language.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 3097,
+      "exportedPath": "docs-hard/数学/philosophy/the-philosophy-of-language.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/philosophy/the Philosophy of Mathematics and Logic.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 13038,
+      "exportedPath": "docs-hard/数学/philosophy/the-philosophy-of-mathematics-and-logic.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/数学-main.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 9912,
+      "exportedPath": "docs-hard/数学/数学-main.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/思考.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 1089,
+      "exportedPath": "docs-hard/数学/思考.html",
+      "dependencies": []
+    },
+    "docs-hard/数学/main-main.md": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 2169,
+      "exportedPath": "docs-hard/数学/main-main.html",
+      "dependencies": []
+    },
+    "lib/styles/supported-plugins.css": {
+      "modifiedTime": 1719907113172,
+      "sourceSize": 1746,
+      "exportedPath": "lib/styles/supported-plugins.css",
+      "dependencies": []
+    }
+  }
+}
